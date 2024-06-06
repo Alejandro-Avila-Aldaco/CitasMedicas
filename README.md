@@ -34,7 +34,7 @@ Para ejecutar la aplicación **CitasMedicas**, asegúrate de tener instalado Jav
 ### Uso
 
 1. **Iniciar sesión**
-   Al iniciar la aplicación, ingresa tu identificador y contraseña de administrador para acceder al sistema (Por default identificador = admin, contraseña = admin123).
+   Al iniciar la aplicación, ingresa tu identificador y contraseña de administrador para acceder al sistema.
 
 2. **Registrar doctor**
    Navega a la sección de alta de doctores.
